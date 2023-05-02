@@ -1,4 +1,4 @@
-name: Nightly Build ## haha
+name: Nightly Build ## haaa
 
 on:
   workflow_dispatch:
